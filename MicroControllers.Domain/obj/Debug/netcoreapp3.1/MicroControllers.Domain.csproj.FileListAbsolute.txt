@@ -1,0 +1,8 @@
+D:\Bento\Projects\tryAloneAgain_PreKubow_v1\MicroControllers.PreKubow.v1\MicroControllers.Domain\bin\Debug\netcoreapp3.1\MicroControllers.Domain.deps.json
+D:\Bento\Projects\tryAloneAgain_PreKubow_v1\MicroControllers.PreKubow.v1\MicroControllers.Domain\bin\Debug\netcoreapp3.1\MicroControllers.Domain.dll
+D:\Bento\Projects\tryAloneAgain_PreKubow_v1\MicroControllers.PreKubow.v1\MicroControllers.Domain\bin\Debug\netcoreapp3.1\MicroControllers.Domain.pdb
+D:\Bento\Projects\tryAloneAgain_PreKubow_v1\MicroControllers.PreKubow.v1\MicroControllers.Domain\obj\Debug\netcoreapp3.1\MicroControllers.Domain.AssemblyInfoInputs.cache
+D:\Bento\Projects\tryAloneAgain_PreKubow_v1\MicroControllers.PreKubow.v1\MicroControllers.Domain\obj\Debug\netcoreapp3.1\MicroControllers.Domain.AssemblyInfo.cs
+D:\Bento\Projects\tryAloneAgain_PreKubow_v1\MicroControllers.PreKubow.v1\MicroControllers.Domain\obj\Debug\netcoreapp3.1\MicroControllers.Domain.csproj.CoreCompileInputs.cache
+D:\Bento\Projects\tryAloneAgain_PreKubow_v1\MicroControllers.PreKubow.v1\MicroControllers.Domain\obj\Debug\netcoreapp3.1\MicroControllers.Domain.dll
+D:\Bento\Projects\tryAloneAgain_PreKubow_v1\MicroControllers.PreKubow.v1\MicroControllers.Domain\obj\Debug\netcoreapp3.1\MicroControllers.Domain.pdb

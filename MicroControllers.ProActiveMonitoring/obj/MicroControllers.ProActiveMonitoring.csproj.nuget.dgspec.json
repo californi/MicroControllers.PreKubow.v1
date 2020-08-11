@@ -1,0 +1,145 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Bento\\Projects\\tryAloneAgain_PreKubow_v1\\MicroControllers.PreKubow.v1\\MicroControllers.ProActiveMonitoring\\MicroControllers.ProActiveMonitoring.csproj": {}
+  },
+  "projects": {
+    "D:\\Bento\\Projects\\tryAloneAgain_PreKubow_v1\\MicroControllers.PreKubow.v1\\MicroControllers.Domain\\MicroControllers.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Bento\\Projects\\tryAloneAgain_PreKubow_v1\\MicroControllers.PreKubow.v1\\MicroControllers.Domain\\MicroControllers.Domain.csproj",
+        "projectName": "MicroControllers.Domain",
+        "projectPath": "D:\\Bento\\Projects\\tryAloneAgain_PreKubow_v1\\MicroControllers.PreKubow.v1\\MicroControllers.Domain\\MicroControllers.Domain.csproj",
+        "packagesPath": "C:\\Users\\Bento Siqueira\\.nuget\\packages\\",
+        "outputPath": "D:\\Bento\\Projects\\tryAloneAgain_PreKubow_v1\\MicroControllers.PreKubow.v1\\MicroControllers.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Bento Siqueira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Bento\\Projects\\tryAloneAgain_PreKubow_v1\\MicroControllers.PreKubow.v1\\MicroControllers.ProActiveMonitoring\\MicroControllers.ProActiveMonitoring.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Bento\\Projects\\tryAloneAgain_PreKubow_v1\\MicroControllers.PreKubow.v1\\MicroControllers.ProActiveMonitoring\\MicroControllers.ProActiveMonitoring.csproj",
+        "projectName": "MicroControllers.ProActiveMonitoring",
+        "projectPath": "D:\\Bento\\Projects\\tryAloneAgain_PreKubow_v1\\MicroControllers.PreKubow.v1\\MicroControllers.ProActiveMonitoring\\MicroControllers.ProActiveMonitoring.csproj",
+        "packagesPath": "C:\\Users\\Bento Siqueira\\.nuget\\packages\\",
+        "outputPath": "D:\\Bento\\Projects\\tryAloneAgain_PreKubow_v1\\MicroControllers.PreKubow.v1\\MicroControllers.ProActiveMonitoring\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Bento Siqueira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Bento\\Projects\\tryAloneAgain_PreKubow_v1\\MicroControllers.PreKubow.v1\\MicroControllers.Domain\\MicroControllers.Domain.csproj": {
+                "projectPath": "D:\\Bento\\Projects\\tryAloneAgain_PreKubow_v1\\MicroControllers.PreKubow.v1\\MicroControllers.Domain\\MicroControllers.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MassTransit": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "MassTransit.AspNetCore": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.5.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
